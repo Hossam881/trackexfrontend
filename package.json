@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A live, editable example of the Framer Motion API",
   "keywords": [],
-  "main": "src/index.tsx",
+  "main": "src/index.jsx",
   "dependencies": {
     "framer-motion": "5.0.0",
     "react": "16.8.4",
